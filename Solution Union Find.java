@@ -1,6 +1,10 @@
 
 import java.util.stream.IntStream;
 
+/*
+  Abridged Version of Union Find.
+  Join by rank is not necessary for this particular problem.
+ */
 public class Solution {
 
     private static final int ALPHABET_SIZE = 26;
